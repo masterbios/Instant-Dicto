@@ -23,9 +23,9 @@ A handy and reliable chrome extension designed to know meaning of complicated En
 
 # Splash Screen<br>
 
-<center><a href="https://imgflip.com/gif/2qtv5y"><img src="https://i.imgflip.com/2qtv5y.gif" title="made at imgflip.com"/></a></center> <br>
+<center><a href="https://imgflip.com/gif/2qtv5y"><img src="https://i.imgflip.com/2qtv5y.gif" /></a></center> <br>
 <br>
-<center><a href="https://imgflip.com/gif/2qtver"><img src="https://i.imgflip.com/2qtver.gif" title="made at imgflip.com"/></a></center> <br>
+<center><a href="https://imgflip.com/gif/2qtver"><img src="https://i.imgflip.com/2qtver.gif" /></a></center> <br>
 
 # Installation <br>
  - Download the zip file
@@ -34,4 +34,8 @@ A handy and reliable chrome extension designed to know meaning of complicated En
  - On upper left side click "Load unpacked"
  - Select the "Instant Dicto"(one that is inside the main folder)
  - Done!
+ 
+ # To-do <br>
+ - Right now if special symbols(!*&^) were selected no meaning is shown <br>
+ - More features Need to be added
  
