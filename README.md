@@ -7,25 +7,26 @@ A handy and reliable chrome extension designed to know meaning of complicated En
 
 # Overview <br>
 
-- No signup required <br>
+- No signup required 
 - Simple to use
+- Automatically search meaning right from the current page
 - No time wastage for searching meanings manually
 - Easy to access popup window
-- Minimum footprint on chrome browser <br>
-- Small size <br>
+- Minimum footprint on chrome browser
+- Small size 
 
-# How to use ?<br>
+# How to use ?
 
-- Simply select the words <br>
-- click the extension <br>
+- Simply select the words 
+- click the extension 
 - that's all <br>
 
 
-# Splash Screen<br>
+# Splash Screen <br>
 
-<center><a href="https://imgflip.com/gif/2qtv5y"><img src="https://i.imgflip.com/2qtv5y.gif" /></a></center> <br>
+<center><a href="https://imgflip.com/gif/2qtv5y"><img src="https://i.imgflip.com/2qtv5y.gif" /></a></center> 
 <br>
-<center><a href="https://imgflip.com/gif/2qtver"><img src="https://i.imgflip.com/2qtver.gif" /></a></center> <br>
+<center><a href="https://imgflip.com/gif/2qtver"><img src="https://i.imgflip.com/2qtver.gif" /></a></center><br>
 
 # Installation <br>
  - Download the zip file
@@ -36,6 +37,6 @@ A handy and reliable chrome extension designed to know meaning of complicated En
  - Done!
  
  # To-do <br>
- - Right now if special symbols(!*&^) were selected no meaning is shown <br>
+ - Right now if special symbols(!*&^) were selected no meaning is shown 
  - More features Need to be added
  
