@@ -31,7 +31,7 @@ A handy and reliable chrome extension designed to know meaning of complicated En
 # Installation <br>
  - Download the zip file
  - Unzip the file
- - Go to Grome url bar type chrome://extensions/
+ - Go to chrome url bar type chrome://extensions/
  - On upper left side click "Load unpacked"
  - Select the "Instant Dicto"(one that is inside the main folder)
  - Done!
