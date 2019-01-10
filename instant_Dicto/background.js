@@ -3,9 +3,8 @@ console.log('background run');
 
 chrome.runtime.onMessage.addListener(reciever);
 
-window.word = "ankit";
+window.word = "xxxxx";
 
 function reciever(request,sender,sendResponse){
-	console.log(request);
 	window.word = request.text;
 }
