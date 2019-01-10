@@ -6,7 +6,7 @@ function setup(){
 	let backpage = chrome.extension.getBackgroundPage();
 	let word = backpage.word.toLowerCase().trim();
 	// createP(word);
-	console.log(word);
+
 	let url = `http://api.wordnik.com:80/v4/word.json/
 	${word}
 	/definitions?limit=1&
