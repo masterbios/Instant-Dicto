@@ -1,0 +1,22 @@
+{
+	"manifest_version":2,
+	"name":"Instant Dicto",
+	"version":"1.0",
+	"description": "Finds word Meaning in real time",
+
+	"content_scripts":[{
+		"matches":["<all_urls>"],
+		"js":["content.js"]
+	}],
+
+	"background":{
+		"scripts":["background.js"]
+	},
+
+	"browser_action":{
+		"default_icon":"icon.png",
+		"default_popup":"popup/index.html",
+		"default_title":"instant word Meaning"
+	}
+
+}
