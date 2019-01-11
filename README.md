@@ -23,10 +23,10 @@ A handy and reliable chrome extension designed to know meaning of complicated En
 
 
 # Splash Screen <br>
-
-<center><a href="https://imgflip.com/gif/2qtv5y"><img src="https://i.imgflip.com/2qtv5y.gif" /></a></center> 
+ <a href="http://www.giphy.com/gifs/uADZjVZmj2KyMtsSjf"><img src="https://media.giphy.com/media/uADZjVZmj2KyMtsSjf/giphy.gif" />
+  <a href="http://www.giphy.com/gifs/9V99Pc0F6XKtnn8Jzq"><img src="https://media.giphy.com/media/9V99Pc0F6XKtnn8Jzq/giphy.gif" />
+ 
 <br>
-<center><a href="https://imgflip.com/gif/2qtver"><img src="https://i.imgflip.com/2qtver.gif" /></a></center><br>
 
 # Installation <br>
  - Download the zip file
