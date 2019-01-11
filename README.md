@@ -24,7 +24,7 @@ A handy and reliable chrome extension designed to know meaning of complicated En
 
 # Splash Screen <br>
  <a href="http://www.giphy.com/gifs/uADZjVZmj2KyMtsSjf"><img src="https://media.giphy.com/media/uADZjVZmj2KyMtsSjf/giphy.gif" />
-  <a href="http://www.giphy.com/gifs/9V99Pc0F6XKtnn8Jzq"><img src="https://media.giphy.com/media/9V99Pc0F6XKtnn8Jzq/giphy.gif" />
+  <a href="https://giphy.com/gifs/6whs0TEXgETvMfo5Iv"><img src="https://media.giphy.com/media/6whs0TEXgETvMfo5Iv/giphy.gif" />
  
 <br>
 
