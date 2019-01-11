@@ -24,6 +24,7 @@ A handy and reliable chrome extension designed to know meaning of complicated En
 
 # Splash Screen <br>
  <a href="http://www.giphy.com/gifs/uADZjVZmj2KyMtsSjf"><img src="https://media.giphy.com/media/uADZjVZmj2KyMtsSjf/giphy.gif" />
+ <br>
   <a href="https://giphy.com/gifs/6whs0TEXgETvMfo5Iv"><img src="https://media.giphy.com/media/6whs0TEXgETvMfo5Iv/giphy.gif" />
  
 <br>
@@ -33,7 +34,7 @@ A handy and reliable chrome extension designed to know meaning of complicated En
  - Unzip the file
  - Go to chrome url bar type chrome://extensions/
  - On upper left side click "Load unpacked"
- - Select the "Instant Dicto"(one that is inside the main folder)
+ - Select the "instant_Dicto"(one that is inside the main folder)
  - Done!
  
  # To-do <br>
