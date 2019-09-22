@@ -23,11 +23,8 @@ A handy and reliable chrome extension designed to know meaning of complicated En
 
 
 # Splash Screen <br>
- <a href="http://www.giphy.com/gifs/uADZjVZmj2KyMtsSjf"><img src="https://media.giphy.com/media/uADZjVZmj2KyMtsSjf/giphy.gif" />
+<img src="Images/project.gif" width="500px">
  <br>
-  <a href="https://giphy.com/gifs/6whs0TEXgETvMfo5Iv"><img src="https://media.giphy.com/media/6whs0TEXgETvMfo5Iv/giphy.gif" />
- 
-<br>
 
 # Installation <br>
  - Download the zip file
