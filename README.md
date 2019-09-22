@@ -23,7 +23,7 @@ A handy and reliable chrome extension designed to know meaning of complicated En
 
 
 # Splash Screen <br>
-<img src="Images/project.gif" width="500px">
+<img src="Images/project.gif" width="800px">
  <br>
 
 # Installation <br>
